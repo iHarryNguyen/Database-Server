@@ -1,0 +1,16 @@
+Goals - Database
+
+Renz - Create Database in R
+Harry - Create Database in Python
+
+Run different commands:
+-create database or use weather database
+-add into database
+-remove from database
+-**Learn how to select all**
+-learn how to print in terminal
+
+_______________________________________________________________
+*******asdjfhkasjdfhjkahsdf********
+
+Add to google slide
